@@ -1,0 +1,11 @@
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/grandingstudents/bin/Debug/netcoreapp2.1/grandingstudents.deps.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/grandingstudents/bin/Debug/netcoreapp2.1/grandingstudents.runtimeconfig.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/grandingstudents/bin/Debug/netcoreapp2.1/grandingstudents.runtimeconfig.dev.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/grandingstudents/bin/Debug/netcoreapp2.1/grandingstudents.dll
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/grandingstudents/bin/Debug/netcoreapp2.1/grandingstudents.pdb
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/grandingstudents/obj/Debug/netcoreapp2.1/grandingstudents.csprojAssemblyReference.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/grandingstudents/obj/Debug/netcoreapp2.1/grandingstudents.csproj.CoreCompileInputs.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/grandingstudents/obj/Debug/netcoreapp2.1/grandingstudents.AssemblyInfoInputs.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/grandingstudents/obj/Debug/netcoreapp2.1/grandingstudents.AssemblyInfo.cs
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/grandingstudents/obj/Debug/netcoreapp2.1/grandingstudents.dll
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/grandingstudents/obj/Debug/netcoreapp2.1/grandingstudents.pdb

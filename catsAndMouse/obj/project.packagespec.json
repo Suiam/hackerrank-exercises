@@ -1,0 +1,43 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/catsAndMouse/catsAndMouse.csproj",
+    "projectName": "catsAndMouse",
+    "projectPath": "/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/catsAndMouse/catsAndMouse.csproj",
+    "outputPath": "/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/catsAndMouse/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netstandard2.0"
+    ],
+    "frameworks": {
+      "netstandard2.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netstandard2.0": {
+      "dependencies": {
+        "NETStandard.Library": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.3, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

@@ -1,0 +1,11 @@
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/drawBook/bin/Debug/netcoreapp2.1/drawBook.deps.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/drawBook/bin/Debug/netcoreapp2.1/drawBook.runtimeconfig.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/drawBook/bin/Debug/netcoreapp2.1/drawBook.runtimeconfig.dev.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/drawBook/bin/Debug/netcoreapp2.1/drawBook.dll
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/drawBook/bin/Debug/netcoreapp2.1/drawBook.pdb
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/drawBook/obj/Debug/netcoreapp2.1/drawBook.csprojAssemblyReference.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/drawBook/obj/Debug/netcoreapp2.1/drawBook.csproj.CoreCompileInputs.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/drawBook/obj/Debug/netcoreapp2.1/drawBook.AssemblyInfoInputs.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/drawBook/obj/Debug/netcoreapp2.1/drawBook.AssemblyInfo.cs
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/drawBook/obj/Debug/netcoreapp2.1/drawBook.dll
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/drawBook/obj/Debug/netcoreapp2.1/drawBook.pdb

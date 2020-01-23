@@ -1,0 +1,11 @@
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/migratoryBirds/bin/Debug/netcoreapp2.1/migratoryBirds.deps.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/migratoryBirds/bin/Debug/netcoreapp2.1/migratoryBirds.runtimeconfig.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/migratoryBirds/bin/Debug/netcoreapp2.1/migratoryBirds.runtimeconfig.dev.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/migratoryBirds/bin/Debug/netcoreapp2.1/migratoryBirds.dll
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/migratoryBirds/bin/Debug/netcoreapp2.1/migratoryBirds.pdb
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/migratoryBirds/obj/Debug/netcoreapp2.1/migratoryBirds.csprojAssemblyReference.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/migratoryBirds/obj/Debug/netcoreapp2.1/migratoryBirds.csproj.CoreCompileInputs.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/migratoryBirds/obj/Debug/netcoreapp2.1/migratoryBirds.AssemblyInfoInputs.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/migratoryBirds/obj/Debug/netcoreapp2.1/migratoryBirds.AssemblyInfo.cs
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/migratoryBirds/obj/Debug/netcoreapp2.1/migratoryBirds.dll
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/migratoryBirds/obj/Debug/netcoreapp2.1/migratoryBirds.pdb

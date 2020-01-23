@@ -1,0 +1,11 @@
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/staircase/bin/Debug/netcoreapp2.1/staircase.deps.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/staircase/bin/Debug/netcoreapp2.1/staircase.runtimeconfig.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/staircase/bin/Debug/netcoreapp2.1/staircase.runtimeconfig.dev.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/staircase/bin/Debug/netcoreapp2.1/staircase.dll
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/staircase/bin/Debug/netcoreapp2.1/staircase.pdb
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/staircase/obj/Debug/netcoreapp2.1/staircase.csprojAssemblyReference.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/staircase/obj/Debug/netcoreapp2.1/staircase.csproj.CoreCompileInputs.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/staircase/obj/Debug/netcoreapp2.1/staircase.AssemblyInfoInputs.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/staircase/obj/Debug/netcoreapp2.1/staircase.AssemblyInfo.cs
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/staircase/obj/Debug/netcoreapp2.1/staircase.dll
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/staircase/obj/Debug/netcoreapp2.1/staircase.pdb

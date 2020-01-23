@@ -1,0 +1,11 @@
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/betweenTwoSets/bin/Debug/netcoreapp2.1/betweenTwoSets.deps.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/betweenTwoSets/bin/Debug/netcoreapp2.1/betweenTwoSets.runtimeconfig.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/betweenTwoSets/bin/Debug/netcoreapp2.1/betweenTwoSets.runtimeconfig.dev.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/betweenTwoSets/bin/Debug/netcoreapp2.1/betweenTwoSets.dll
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/betweenTwoSets/bin/Debug/netcoreapp2.1/betweenTwoSets.pdb
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/betweenTwoSets/obj/Debug/netcoreapp2.1/betweenTwoSets.csprojAssemblyReference.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/betweenTwoSets/obj/Debug/netcoreapp2.1/betweenTwoSets.csproj.CoreCompileInputs.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/betweenTwoSets/obj/Debug/netcoreapp2.1/betweenTwoSets.AssemblyInfoInputs.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/betweenTwoSets/obj/Debug/netcoreapp2.1/betweenTwoSets.AssemblyInfo.cs
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/betweenTwoSets/obj/Debug/netcoreapp2.1/betweenTwoSets.dll
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/betweenTwoSets/obj/Debug/netcoreapp2.1/betweenTwoSets.pdb

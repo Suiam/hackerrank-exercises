@@ -1,0 +1,11 @@
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/bonApetit/bin/Debug/netcoreapp2.1/bonApetit.deps.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/bonApetit/bin/Debug/netcoreapp2.1/bonApetit.runtimeconfig.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/bonApetit/bin/Debug/netcoreapp2.1/bonApetit.runtimeconfig.dev.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/bonApetit/bin/Debug/netcoreapp2.1/bonApetit.dll
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/bonApetit/bin/Debug/netcoreapp2.1/bonApetit.pdb
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/bonApetit/obj/Debug/netcoreapp2.1/bonApetit.csprojAssemblyReference.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/bonApetit/obj/Debug/netcoreapp2.1/bonApetit.csproj.CoreCompileInputs.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/bonApetit/obj/Debug/netcoreapp2.1/bonApetit.AssemblyInfoInputs.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/bonApetit/obj/Debug/netcoreapp2.1/bonApetit.AssemblyInfo.cs
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/bonApetit/obj/Debug/netcoreapp2.1/bonApetit.dll
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/bonApetit/obj/Debug/netcoreapp2.1/bonApetit.pdb

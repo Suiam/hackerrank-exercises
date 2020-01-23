@@ -1,0 +1,11 @@
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/kangaroo/bin/Debug/netcoreapp2.1/kangaroo.deps.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/kangaroo/bin/Debug/netcoreapp2.1/kangaroo.runtimeconfig.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/kangaroo/bin/Debug/netcoreapp2.1/kangaroo.runtimeconfig.dev.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/kangaroo/bin/Debug/netcoreapp2.1/kangaroo.dll
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/kangaroo/bin/Debug/netcoreapp2.1/kangaroo.pdb
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/kangaroo/obj/Debug/netcoreapp2.1/kangaroo.csprojAssemblyReference.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/kangaroo/obj/Debug/netcoreapp2.1/kangaroo.csproj.CoreCompileInputs.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/kangaroo/obj/Debug/netcoreapp2.1/kangaroo.AssemblyInfoInputs.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/kangaroo/obj/Debug/netcoreapp2.1/kangaroo.AssemblyInfo.cs
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/kangaroo/obj/Debug/netcoreapp2.1/kangaroo.dll
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/kangaroo/obj/Debug/netcoreapp2.1/kangaroo.pdb

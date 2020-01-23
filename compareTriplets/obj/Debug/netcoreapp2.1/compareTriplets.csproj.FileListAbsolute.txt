@@ -1,0 +1,11 @@
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/compareTriplets/bin/Debug/netcoreapp2.1/compareTriplets.deps.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/compareTriplets/bin/Debug/netcoreapp2.1/compareTriplets.runtimeconfig.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/compareTriplets/bin/Debug/netcoreapp2.1/compareTriplets.runtimeconfig.dev.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/compareTriplets/bin/Debug/netcoreapp2.1/compareTriplets.dll
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/compareTriplets/bin/Debug/netcoreapp2.1/compareTriplets.pdb
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/compareTriplets/obj/Debug/netcoreapp2.1/compareTriplets.csprojAssemblyReference.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/compareTriplets/obj/Debug/netcoreapp2.1/compareTriplets.csproj.CoreCompileInputs.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/compareTriplets/obj/Debug/netcoreapp2.1/compareTriplets.AssemblyInfoInputs.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/compareTriplets/obj/Debug/netcoreapp2.1/compareTriplets.AssemblyInfo.cs
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/compareTriplets/obj/Debug/netcoreapp2.1/compareTriplets.dll
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/compareTriplets/obj/Debug/netcoreapp2.1/compareTriplets.pdb

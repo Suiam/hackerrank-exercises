@@ -1,0 +1,11 @@
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/birthdaycankecandles/bin/Debug/netcoreapp2.1/birthdaycankecandles.deps.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/birthdaycankecandles/bin/Debug/netcoreapp2.1/birthdaycankecandles.runtimeconfig.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/birthdaycankecandles/bin/Debug/netcoreapp2.1/birthdaycankecandles.runtimeconfig.dev.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/birthdaycankecandles/bin/Debug/netcoreapp2.1/birthdaycankecandles.dll
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/birthdaycankecandles/bin/Debug/netcoreapp2.1/birthdaycankecandles.pdb
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/birthdaycankecandles/obj/Debug/netcoreapp2.1/birthdaycankecandles.csprojAssemblyReference.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/birthdaycankecandles/obj/Debug/netcoreapp2.1/birthdaycankecandles.csproj.CoreCompileInputs.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/birthdaycankecandles/obj/Debug/netcoreapp2.1/birthdaycankecandles.AssemblyInfoInputs.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/birthdaycankecandles/obj/Debug/netcoreapp2.1/birthdaycankecandles.AssemblyInfo.cs
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/birthdaycankecandles/obj/Debug/netcoreapp2.1/birthdaycankecandles.dll
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/birthdaycankecandles/obj/Debug/netcoreapp2.1/birthdaycankecandles.pdb

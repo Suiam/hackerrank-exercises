@@ -1,0 +1,43 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/pickingNumbers/pickingNumbers.csproj",
+    "projectName": "pickingNumbers",
+    "projectPath": "/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/pickingNumbers/pickingNumbers.csproj",
+    "outputPath": "/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/pickingNumbers/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

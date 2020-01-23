@@ -1,0 +1,11 @@
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/catsAndMouses/bin/Debug/netcoreapp2.1/catsAndMouses.deps.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/catsAndMouses/bin/Debug/netcoreapp2.1/catsAndMouses.runtimeconfig.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/catsAndMouses/bin/Debug/netcoreapp2.1/catsAndMouses.runtimeconfig.dev.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/catsAndMouses/bin/Debug/netcoreapp2.1/catsAndMouses.dll
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/catsAndMouses/bin/Debug/netcoreapp2.1/catsAndMouses.pdb
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/catsAndMouses/obj/Debug/netcoreapp2.1/catsAndMouses.csprojAssemblyReference.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/catsAndMouses/obj/Debug/netcoreapp2.1/catsAndMouses.csproj.CoreCompileInputs.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/catsAndMouses/obj/Debug/netcoreapp2.1/catsAndMouses.AssemblyInfoInputs.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/catsAndMouses/obj/Debug/netcoreapp2.1/catsAndMouses.AssemblyInfo.cs
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/catsAndMouses/obj/Debug/netcoreapp2.1/catsAndMouses.dll
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/catsAndMouses/obj/Debug/netcoreapp2.1/catsAndMouses.pdb

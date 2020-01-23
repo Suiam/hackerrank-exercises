@@ -1,0 +1,11 @@
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/timeconversion/bin/Debug/netcoreapp2.1/timeconversion.deps.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/timeconversion/bin/Debug/netcoreapp2.1/timeconversion.runtimeconfig.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/timeconversion/bin/Debug/netcoreapp2.1/timeconversion.runtimeconfig.dev.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/timeconversion/bin/Debug/netcoreapp2.1/timeconversion.dll
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/timeconversion/bin/Debug/netcoreapp2.1/timeconversion.pdb
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/timeconversion/obj/Debug/netcoreapp2.1/timeconversion.csprojAssemblyReference.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/timeconversion/obj/Debug/netcoreapp2.1/timeconversion.csproj.CoreCompileInputs.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/timeconversion/obj/Debug/netcoreapp2.1/timeconversion.AssemblyInfoInputs.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/timeconversion/obj/Debug/netcoreapp2.1/timeconversion.AssemblyInfo.cs
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/timeconversion/obj/Debug/netcoreapp2.1/timeconversion.dll
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/timeconversion/obj/Debug/netcoreapp2.1/timeconversion.pdb

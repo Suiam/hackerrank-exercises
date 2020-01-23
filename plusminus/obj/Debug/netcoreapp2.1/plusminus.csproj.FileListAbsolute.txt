@@ -1,0 +1,11 @@
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/plusminus/bin/Debug/netcoreapp2.1/plusminus.deps.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/plusminus/bin/Debug/netcoreapp2.1/plusminus.runtimeconfig.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/plusminus/bin/Debug/netcoreapp2.1/plusminus.runtimeconfig.dev.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/plusminus/bin/Debug/netcoreapp2.1/plusminus.dll
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/plusminus/bin/Debug/netcoreapp2.1/plusminus.pdb
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/plusminus/obj/Debug/netcoreapp2.1/plusminus.csprojAssemblyReference.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/plusminus/obj/Debug/netcoreapp2.1/plusminus.csproj.CoreCompileInputs.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/plusminus/obj/Debug/netcoreapp2.1/plusminus.AssemblyInfoInputs.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/plusminus/obj/Debug/netcoreapp2.1/plusminus.AssemblyInfo.cs
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/plusminus/obj/Debug/netcoreapp2.1/plusminus.dll
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/plusminus/obj/Debug/netcoreapp2.1/plusminus.pdb

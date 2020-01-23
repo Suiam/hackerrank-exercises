@@ -1,0 +1,11 @@
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/countingValleys/bin/Debug/netcoreapp2.1/countingValleys.deps.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/countingValleys/bin/Debug/netcoreapp2.1/countingValleys.runtimeconfig.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/countingValleys/bin/Debug/netcoreapp2.1/countingValleys.runtimeconfig.dev.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/countingValleys/bin/Debug/netcoreapp2.1/countingValleys.dll
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/countingValleys/bin/Debug/netcoreapp2.1/countingValleys.pdb
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/countingValleys/obj/Debug/netcoreapp2.1/countingValleys.csprojAssemblyReference.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/countingValleys/obj/Debug/netcoreapp2.1/countingValleys.csproj.CoreCompileInputs.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/countingValleys/obj/Debug/netcoreapp2.1/countingValleys.AssemblyInfoInputs.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/countingValleys/obj/Debug/netcoreapp2.1/countingValleys.AssemblyInfo.cs
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/countingValleys/obj/Debug/netcoreapp2.1/countingValleys.dll
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/countingValleys/obj/Debug/netcoreapp2.1/countingValleys.pdb

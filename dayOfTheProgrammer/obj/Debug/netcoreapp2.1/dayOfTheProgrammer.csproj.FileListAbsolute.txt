@@ -1,0 +1,11 @@
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/dayOfTheProgrammer/bin/Debug/netcoreapp2.1/dayOfTheProgrammer.deps.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/dayOfTheProgrammer/bin/Debug/netcoreapp2.1/dayOfTheProgrammer.runtimeconfig.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/dayOfTheProgrammer/bin/Debug/netcoreapp2.1/dayOfTheProgrammer.runtimeconfig.dev.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/dayOfTheProgrammer/bin/Debug/netcoreapp2.1/dayOfTheProgrammer.dll
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/dayOfTheProgrammer/bin/Debug/netcoreapp2.1/dayOfTheProgrammer.pdb
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/dayOfTheProgrammer/obj/Debug/netcoreapp2.1/dayOfTheProgrammer.csprojAssemblyReference.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/dayOfTheProgrammer/obj/Debug/netcoreapp2.1/dayOfTheProgrammer.csproj.CoreCompileInputs.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/dayOfTheProgrammer/obj/Debug/netcoreapp2.1/dayOfTheProgrammer.AssemblyInfoInputs.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/dayOfTheProgrammer/obj/Debug/netcoreapp2.1/dayOfTheProgrammer.AssemblyInfo.cs
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/dayOfTheProgrammer/obj/Debug/netcoreapp2.1/dayOfTheProgrammer.dll
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/dayOfTheProgrammer/obj/Debug/netcoreapp2.1/dayOfTheProgrammer.pdb

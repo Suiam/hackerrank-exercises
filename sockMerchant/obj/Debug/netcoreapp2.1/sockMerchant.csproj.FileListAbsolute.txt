@@ -1,0 +1,11 @@
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/sockMerchant/bin/Debug/netcoreapp2.1/sockMerchant.deps.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/sockMerchant/bin/Debug/netcoreapp2.1/sockMerchant.runtimeconfig.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/sockMerchant/bin/Debug/netcoreapp2.1/sockMerchant.runtimeconfig.dev.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/sockMerchant/bin/Debug/netcoreapp2.1/sockMerchant.dll
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/sockMerchant/bin/Debug/netcoreapp2.1/sockMerchant.pdb
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/sockMerchant/obj/Debug/netcoreapp2.1/sockMerchant.csprojAssemblyReference.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/sockMerchant/obj/Debug/netcoreapp2.1/sockMerchant.csproj.CoreCompileInputs.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/sockMerchant/obj/Debug/netcoreapp2.1/sockMerchant.AssemblyInfoInputs.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/sockMerchant/obj/Debug/netcoreapp2.1/sockMerchant.AssemblyInfo.cs
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/sockMerchant/obj/Debug/netcoreapp2.1/sockMerchant.dll
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/sockMerchant/obj/Debug/netcoreapp2.1/sockMerchant.pdb

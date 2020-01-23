@@ -1,0 +1,11 @@
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/divisibleSumPairs/bin/Debug/netcoreapp2.1/divisibleSumPairs.deps.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/divisibleSumPairs/bin/Debug/netcoreapp2.1/divisibleSumPairs.runtimeconfig.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/divisibleSumPairs/bin/Debug/netcoreapp2.1/divisibleSumPairs.runtimeconfig.dev.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/divisibleSumPairs/bin/Debug/netcoreapp2.1/divisibleSumPairs.dll
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/divisibleSumPairs/bin/Debug/netcoreapp2.1/divisibleSumPairs.pdb
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/divisibleSumPairs/obj/Debug/netcoreapp2.1/divisibleSumPairs.csprojAssemblyReference.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/divisibleSumPairs/obj/Debug/netcoreapp2.1/divisibleSumPairs.csproj.CoreCompileInputs.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/divisibleSumPairs/obj/Debug/netcoreapp2.1/divisibleSumPairs.AssemblyInfoInputs.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/divisibleSumPairs/obj/Debug/netcoreapp2.1/divisibleSumPairs.AssemblyInfo.cs
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/divisibleSumPairs/obj/Debug/netcoreapp2.1/divisibleSumPairs.dll
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/divisibleSumPairs/obj/Debug/netcoreapp2.1/divisibleSumPairs.pdb

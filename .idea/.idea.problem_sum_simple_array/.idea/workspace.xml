@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/betweenTwoSets/Program.cs" line="70" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0896f0df-3fef-4596-8450-a765659d5948" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/magicSquare/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+              <folding>
+                <marker date="1551989681807" expanded="true" signature="58:753" ph="{...}" />
+                <marker date="1551989681807" expanded="true" signature="169:207" ph="{...}" />
+                <marker date="1551989681807" expanded="true" signature="249:747" ph="{...}" />
+                <marker date="1551989681807" expanded="true" signature="452:572" ph="{...}" />
+                <marker date="1551989681807" expanded="true" signature="623:737" ph="/* textWriter.WriteLine(result); ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catsAndMouses/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding>
+                <marker date="1551518171480" expanded="true" signature="60:1384" ph="{...}" />
+                <marker date="1551518171480" expanded="true" signature="169:505" ph="{...}" />
+                <marker date="1551518171480" expanded="true" signature="233:295" ph="{...}" />
+                <marker date="1551518171480" expanded="true" signature="351:413" ph="{...}" />
+                <marker date="1551518171480" expanded="true" signature="430:494" ph="{...}" />
+                <marker date="1551518171480" expanded="true" signature="547:1378" ph="{...}" />
+                <marker date="1551518171480" expanded="true" signature="561:1206" ph="/* TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable(&quot;OUTPUT_PATH&quot;), true); ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pickingNumbers/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+              <folding>
+                <marker date="1554920897535" expanded="true" signature="6:83" ph="..." />
+                <marker date="1554920897535" expanded="true" signature="109:1074" ph="{...}" />
+                <marker date="1554920897535" expanded="true" signature="128:441" ph="{...}" />
+                <marker date="1554920897535" expanded="true" signature="144:346" ph="/* Complete the 'pickingNumbers' function below. ... */" />
+                <marker date="1554920897535" expanded="true" signature="401:434" ph="{...}" />
+                <marker date="1554920897535" expanded="true" signature="461:1072" ph="{...}" />
+                <marker date="1554920897535" expanded="true" signature="514:1066" ph="{...}" />
+                <marker date="1554920897535" expanded="true" signature="942:1056" ph="/* textWriter.WriteLine(result); ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/eletronicShops/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/dayOfTheProgrammer/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/drawBook/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sockMerchant/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/problem_sum_simple_array/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/diagonalDIfference/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/staircase/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/catsAndMouses/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/divisibleSumPairs/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/compareTriplets/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/appleandorange/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/minsummaxsum/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/birthdaycankecandles/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/breakingBestAndWorstRecords/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/verybigsum/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/betweenTwoSets/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/birthdayChocolate/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/eletronicShop/UnitTest1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/plusminus/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/magicSquare/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/bonApetit/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/grandingstudents/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/migratoryBirds/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/pickingNumbers/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/timeconversion/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/catsAndMouse/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/countingValleys/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/kangaroo/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/problem_sum_simple_array/Program.cs" />
+        <option value="$PROJECT_DIR$/verybigsum/Program.cs" />
+        <option value="$PROJECT_DIR$/diagonalDIfference/Program.cs" />
+        <option value="$PROJECT_DIR$/compareTriplets/Program.cs" />
+        <option value="$PROJECT_DIR$/plusminus/Program.cs" />
+        <option value="$PROJECT_DIR$/staircase/Program.cs" />
+        <option value="$PROJECT_DIR$/minsummaxsum/Program.cs" />
+        <option value="$PROJECT_DIR$/birthdaycankecandles/Program.cs" />
+        <option value="$PROJECT_DIR$/timeconversion/Program.cs" />
+        <option value="$PROJECT_DIR$/grandingstudents/Program.cs" />
+        <option value="$PROJECT_DIR$/appleandorange/Program.cs" />
+        <option value="$PROJECT_DIR$/kangaroo/Program.cs" />
+        <option value="$PROJECT_DIR$/betweenTwoSets/Program.cs" />
+        <option value="$PROJECT_DIR$/breakingBestAndWorstRecords/Program.cs" />
+        <option value="$PROJECT_DIR$/divisibleSumPairs/Program.cs" />
+        <option value="$PROJECT_DIR$/birthdayChocolate/migratoryBirds.cs" />
+        <option value="$PROJECT_DIR$/migrayoryBirds/Program.cs" />
+        <option value="$PROJECT_DIR$/migratoryBirds/Program.cs" />
+        <option value="$PROJECT_DIR$/dayOfTheProgrammer/Program.cs" />
+        <option value="$PROJECT_DIR$/bonApetit/Program.cs" />
+        <option value="$PROJECT_DIR$/birthdayChocolate/Program.cs" />
+        <option value="$PROJECT_DIR$/sockMerchant/Program.cs" />
+        <option value="$PROJECT_DIR$/drawBook/Program.cs" />
+        <option value="$PROJECT_DIR$/countingValleys/Program.cs" />
+        <option value="$PROJECT_DIR$/eletronicShop/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/eletronicShops/Program.cs" />
+        <option value="$PROJECT_DIR$/catsAndMouse/Class1.cs" />
+        <option value="$PROJECT_DIR$/catsAndMouse/Program.cs" />
+        <option value="$PROJECT_DIR$/catsAndMouses/Program.cs" />
+        <option value="$PROJECT_DIR$/magicSquare/Program.cs" />
+        <option value="$PROJECT_DIR$/pickingNumbers/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="44" />
+    <option name="y" value="23" />
+    <option name="width" value="1396" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="problem_sum_simple_array" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../pulseit/projeto/sales-api" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/catsAndMouses/bin/Debug/netcoreapp2.1/catsAndMouses.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/catsAndMouses" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/catsAndMouses/catsAndMouses.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <browser url="http://localhost:5000" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0896f0df-3fef-4596-8450-a765659d5948" name="Default Changelist" comment="" />
+      <created>1548080976729</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548080976729</updated>
+      <workItem from="1548080978530" duration="3172000" />
+      <workItem from="1548169446236" duration="5881000" />
+      <workItem from="1548254248946" duration="9051000" />
+      <workItem from="1548448240577" duration="11000" />
+      <workItem from="1548448271020" duration="10247000" />
+      <workItem from="1548885060943" duration="10412000" />
+      <workItem from="1549398068249" duration="12169000" />
+      <workItem from="1550010304879" duration="12309000" />
+      <workItem from="1551989596192" duration="278000" />
+      <workItem from="1554919978383" duration="114000" />
+      <workItem from="1554920808920" duration="212000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="63856000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22617124" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36385542" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.32168674" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/problem_sum_simple_array.sln">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timeconversion/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+            <marker date="1548341269551" expanded="true" signature="106:764" ph="{...}" />
+            <marker date="1548341269551" expanded="true" signature="117:186" ph="/* Complete the timeConversion function below. ... */" />
+            <marker date="1548341269551" expanded="true" signature="233:356" ph="{...}" />
+            <marker date="1548341269551" expanded="true" signature="398:758" ph="{...}" />
+            <marker date="1548341269551" expanded="true" signature="658:748" ph="/* tw.WriteLine(result); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/birthdayChocolate/migratoryBirds.cs" />
+    <entry file="file://$PROJECT_DIR$/divisibleSumPairs/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+          <folding>
+            <marker date="1549315721146" expanded="false" signature="6:66" ph="..." />
+            <marker date="1549315721146" expanded="true" signature="95:1261" ph="{...}" />
+            <marker date="1549315721146" expanded="true" signature="117:1258" ph="{...}" />
+            <marker date="1549315721146" expanded="true" signature="239:701" ph="{...}" />
+            <marker date="1549315721146" expanded="true" signature="354:659" ph="{...}" />
+            <marker date="1549315721146" expanded="true" signature="420:643" ph="{...}" />
+            <marker date="1549315721146" expanded="true" signature="544:625" ph="{...}" />
+            <marker date="1549315721146" expanded="true" signature="743:1252" ph="{...}" />
+            <marker date="1549315721146" expanded="true" signature="757:925" ph="/* TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable(&quot;OUTPUT_PATH&quot;), true); ... */" />
+            <marker date="1549315721146" expanded="true" signature="1128:1242" ph="/* textWriter.WriteLine(result); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dayOfTheProgrammer/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding>
+            <marker date="1549921126053" expanded="true" signature="43:1437" ph="{...}" />
+            <marker date="1549921126053" expanded="true" signature="64:1435" ph="{...}" />
+            <marker date="1549921126053" expanded="true" signature="118:1010" ph="{...}" />
+            <marker date="1549921126053" expanded="true" signature="159:567" ph="{...}" />
+            <marker date="1549921126053" expanded="true" signature="248:390" ph="{...}" />
+            <marker date="1549921126053" expanded="true" signature="411:553" ph="{...}" />
+            <marker date="1549921126053" expanded="true" signature="598:966" ph="{...}" />
+            <marker date="1549921126053" expanded="true" signature="647:789" ph="{...}" />
+            <marker date="1549921126053" expanded="true" signature="810:952" ph="{...}" />
+            <marker date="1549921126053" expanded="true" signature="1060:1429" ph="{...}" />
+            <marker date="1549921126053" expanded="true" signature="1305:1419" ph="/* textWriter.WriteLine(result); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bonApetit/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+          <folding>
+            <marker date="1550010516107" expanded="false" signature="6:102" ph="..." />
+            <marker date="1550010516107" expanded="true" signature="123:1425" ph="{...}" />
+            <marker date="1550010516107" expanded="true" signature="145:1423" ph="{...}" />
+            <marker date="1550010516107" expanded="true" signature="259:1118" ph="{...}" />
+            <marker date="1550010516107" expanded="true" signature="386:616" ph="{...}" />
+            <marker date="1550010516107" expanded="true" signature="429:508" ph="{...}" />
+            <marker date="1550010516107" expanded="true" signature="529:602" ph="{...}" />
+            <marker date="1550010516107" expanded="true" signature="717:795" ph="{...}" />
+            <marker date="1550010516107" expanded="true" signature="812:1107" ph="{...}" />
+            <marker date="1550010516107" expanded="true" signature="857:934" ph="{...}" />
+            <marker date="1550010516107" expanded="true" signature="955:1032" ph="{...}" />
+            <marker date="1550010516107" expanded="true" signature="1160:1417" ph="{...}" />
+            <marker date="1550010516107" expanded="true" signature="1173:1263" ph="/* string[] nk = new []{&quot;3&quot;, &quot;10&quot;,&quot;2&quot;,&quot;9&quot;}; ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/breakingBestAndWorstRecords/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+          <folding>
+            <marker date="1548886637343" expanded="false" signature="6:47" ph="..." />
+            <marker date="1548886637343" expanded="true" signature="86:1451" ph="{...}" />
+            <marker date="1548886637343" expanded="true" signature="108:1448" ph="{...}" />
+            <marker date="1548886637343" expanded="true" signature="217:940" ph="{...}" />
+            <marker date="1548886637343" expanded="true" signature="463:801" ph="{...}" />
+            <marker date="1548886637343" expanded="true" signature="518:631" ph="{...}" />
+            <marker date="1548886637343" expanded="true" signature="676:787" ph="{...}" />
+            <marker date="1548886637343" expanded="true" signature="982:1442" ph="{...}" />
+            <marker date="1548886637343" expanded="true" signature="996:1164" ph="/* TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable(&quot;OUTPUT_PATH&quot;), true); ... */" />
+            <marker date="1548886637343" expanded="true" signature="1362:1432" ph="/* textWriter.Flush(); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diagonalDIfference/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+          <folding>
+            <marker date="1548169825306" expanded="false" signature="6:30" ph="..." />
+            <marker date="1548169825306" expanded="true" signature="60:1414" ph="{...}" />
+            <marker date="1548169825306" expanded="true" signature="82:1412" ph="{...}" />
+            <marker date="1548169825306" expanded="true" signature="202:805" ph="{...}" />
+            <marker date="1548169825306" expanded="true" signature="337:707" ph="{...}" />
+            <marker date="1548169825306" expanded="true" signature="396:693" ph="{...}" />
+            <marker date="1548169825306" expanded="true" signature="447:540" ph="{...}" />
+            <marker date="1548169825306" expanded="true" signature="582:674" ph="{...}" />
+            <marker date="1548169825306" expanded="true" signature="847:1406" ph="{...}" />
+            <marker date="1548169825306" expanded="true" signature="1108:1234" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grandingstudents/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="44" column="17" selection-start-line="41" selection-start-column="16" selection-end-line="44" selection-end-column="17" />
+          <folding>
+            <marker date="1548361811901" expanded="false" signature="6:64" ph="..." />
+            <marker date="1548361811901" expanded="true" signature="92:2130" ph="{...}" />
+            <marker date="1548361811901" expanded="true" signature="114:2128" ph="{...}" />
+            <marker date="1548361811901" expanded="true" signature="125:195" ph="/* Complete the gradingStudents function below. ... */" />
+            <marker date="1548361811901" expanded="true" signature="246:1290" ph="{...}" />
+            <marker date="1548361811901" expanded="true" signature="387:1229" ph="{...}" />
+            <marker date="1548361811901" expanded="true" signature="437:517" ph="{...}" />
+            <marker date="1548361811901" expanded="true" signature="567:1114" ph="{...}" />
+            <marker date="1548361811901" expanded="true" signature="726:824" ph="{...}" />
+            <marker date="1548361811901" expanded="true" signature="887:979" ph="{...}" />
+            <marker date="1548361811901" expanded="true" signature="1004:1096" ph="{...}" />
+            <marker date="1548361811901" expanded="true" signature="1135:1215" ph="{...}" />
+            <marker date="1548361811901" expanded="true" signature="1331:2122" ph="{...}" />
+            <marker date="1548361811901" expanded="true" signature="1356:1577" ph="/* TextWriter tw = new StreamWriter(@System.Environment.GetEnvironmentVariable(&quot;OUTPUT_PATH&quot;), true); ... */" />
+            <marker date="1548361811901" expanded="true" signature="1676:1944" ph="/* int[] grades = new[] {67}; ... */" />
+            <marker date="1548361811901" expanded="true" signature="2058:2112" ph="/* tw.Flush(); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kangaroo/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+          <folding>
+            <marker date="1548689627394" expanded="true" signature="33:1314" ph="{...}" />
+            <marker date="1548689627394" expanded="true" signature="55:1311" ph="{...}" />
+            <marker date="1548689627394" expanded="true" signature="169:743" ph="{...}" />
+            <marker date="1548689627394" expanded="true" signature="219:277" ph="{...}" />
+            <marker date="1548689627394" expanded="true" signature="319:376" ph="{...}" />
+            <marker date="1548689627394" expanded="true" signature="419:476" ph="{...}" />
+            <marker date="1548689627394" expanded="true" signature="494:733" ph="{...}" />
+            <marker date="1548689627394" expanded="true" signature="558:628" ph="{...}" />
+            <marker date="1548689627394" expanded="true" signature="650:719" ph="{...}" />
+            <marker date="1548689627394" expanded="true" signature="785:1305" ph="{...}" />
+            <marker date="1548689627394" expanded="true" signature="799:973" ph="/* TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable(&quot;OUTPUT_PATH&quot;), true); ... */" />
+            <marker date="1548689627394" expanded="true" signature="1181:1295" ph="/* textWriter.WriteLine(result); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/migratoryBirds/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="81" selection-start-line="19" selection-start-column="81" selection-end-line="19" selection-end-column="81" />
+          <folding>
+            <marker date="1549406018496" expanded="false" signature="6:134" ph="..." />
+            <marker date="1549406018496" expanded="true" signature="160:1128" ph="{...}" />
+            <marker date="1549406018496" expanded="true" signature="182:1126" ph="{...}" />
+            <marker date="1549406018496" expanded="true" signature="289:607" ph="{...}" />
+            <marker date="1549406018496" expanded="true" signature="649:1120" ph="{...}" />
+            <marker date="1549406018496" expanded="true" signature="663:845" ph="/* TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable(&quot;OUTPUT_PATH&quot;), true); ... */" />
+            <marker date="1549406018496" expanded="true" signature="996:1110" ph="/* textWriter.WriteLine(result); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/minsummaxsum/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="11" column="60" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="60" />
+          <folding>
+            <marker date="1548191054965" expanded="false" signature="6:32" ph="..." />
+            <marker date="1548191054965" expanded="true" signature="56:930" ph="{...}" />
+            <marker date="1548191054965" expanded="true" signature="78:928" ph="{...}" />
+            <marker date="1548191054965" expanded="true" signature="174:713" ph="{...}" />
+            <marker date="1548191054965" expanded="true" signature="361:637" ph="{...}" />
+            <marker date="1548191054965" expanded="true" signature="403:489" ph="{...}" />
+            <marker date="1548191054965" expanded="true" signature="537:623" ph="{...}" />
+            <marker date="1548191054965" expanded="true" signature="755:922" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plusminus/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="677">
+          <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+          <folding>
+            <marker date="1548172954247" expanded="false" signature="6:47" ph="..." />
+            <marker date="1548172954247" expanded="true" signature="68:1265" ph="{...}" />
+            <marker date="1548172954247" expanded="true" signature="90:1263" ph="{...}" />
+            <marker date="1548172954247" expanded="true" signature="184:991" ph="{...}" />
+            <marker date="1548172954247" expanded="true" signature="342:683" ph="{...}" />
+            <marker date="1548172954247" expanded="true" signature="383:460" ph="{...}" />
+            <marker date="1548172954247" expanded="true" signature="494:571" ph="{...}" />
+            <marker date="1548172954247" expanded="true" signature="594:669" ph="{...}" />
+            <marker date="1548172954247" expanded="true" signature="1033:1257" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem_sum_simple_array/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <marker date="1548081400084" expanded="false" signature="6:30" ph="..." />
+            <marker date="1548081400084" expanded="true" signature="66:909" ph="{...}" />
+            <marker date="1548081400084" expanded="true" signature="88:907" ph="{...}" />
+            <marker date="1548081400084" expanded="true" signature="99:168" ph="/* Complete the simpleArraySum function below. ... */" />
+            <marker date="1548081400084" expanded="true" signature="213:387" ph="{...}" />
+            <marker date="1548081400084" expanded="true" signature="280:349" ph="{...}" />
+            <marker date="1548081400084" expanded="true" signature="429:901" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/staircase/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <marker date="1548187156481" expanded="true" signature="34:617" ph="{...}" />
+            <marker date="1548187156481" expanded="true" signature="59:615" ph="{...}" />
+            <marker date="1548187156481" expanded="true" signature="103:456" ph="{...}" />
+            <marker date="1548187156481" expanded="true" signature="146:444" ph="{...}" />
+            <marker date="1548187156481" expanded="true" signature="205:392" ph="{...}" />
+            <marker date="1548187156481" expanded="true" signature="505:609" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/verybigsum/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+          <folding>
+            <marker date="1548085158552" expanded="false" signature="6:30" ph="..." />
+            <marker date="1548085158552" expanded="true" signature="52:883" ph="{...}" />
+            <marker date="1548085158552" expanded="true" signature="74:881" ph="{...}" />
+            <marker date="1548085158552" expanded="true" signature="172:362" ph="{...}" />
+            <marker date="1548085158552" expanded="true" signature="248:315" ph="{...}" />
+            <marker date="1548085158552" expanded="true" signature="404:875" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appleandorange/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+          <folding>
+            <marker date="1548451329218" expanded="true" signature="39:1809" ph="{...}" />
+            <marker date="1548451329218" expanded="true" signature="61:1807" ph="{...}" />
+            <marker date="1548451329218" expanded="true" signature="224:1269" ph="{...}" />
+            <marker date="1548451329218" expanded="true" signature="489:788" ph="{...}" />
+            <marker date="1548451329218" expanded="true" signature="620:696" ph="{...}" />
+            <marker date="1548451329218" expanded="true" signature="717:774" ph="{...}" />
+            <marker date="1548451329218" expanded="true" signature="842:1163" ph="{...}" />
+            <marker date="1548451329218" expanded="true" signature="977:1054" ph="{...}" />
+            <marker date="1548451329218" expanded="true" signature="1075:1132" ph="{...}" />
+            <marker date="1548451329218" expanded="true" signature="1311:1801" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/betweenTwoSets/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+          <folding>
+            <marker date="1548802299838" expanded="false" signature="6:66" ph="..." />
+            <marker date="1548802299838" expanded="true" signature="92:2831" ph="{...}" />
+            <marker date="1548802299838" expanded="true" signature="114:2828" ph="{...}" />
+            <marker date="1548802299838" expanded="true" signature="125:189" ph="/* Complete the getTotalX function below. ... */" />
+            <marker date="1548802299838" expanded="true" signature="236:2288" ph="{...}" />
+            <marker date="1548802299838" expanded="true" signature="341:830" ph="{...}" />
+            <marker date="1548802299838" expanded="true" signature="407:816" ph="{...}" />
+            <marker date="1548802299838" expanded="true" signature="580:679" ph="{...}" />
+            <marker date="1548802299838" expanded="true" signature="704:798" ph="{...}" />
+            <marker date="1548802299838" expanded="true" signature="973:1039" ph="{...}" />
+            <marker date="1548802299838" expanded="true" signature="1142:1406" ph="{...}" />
+            <marker date="1548802299838" expanded="true" signature="1232:1325" ph="{...}" />
+            <marker date="1548802299838" expanded="true" signature="1572:1638" ph="{...}" />
+            <marker date="1548802299838" expanded="true" signature="1673:2278" ph="/* int a1 = a[0]; ... */" />
+            <marker date="1548802299838" expanded="true" signature="2330:2822" ph="{...}" />
+            <marker date="1548802299838" expanded="true" signature="2344:2504" ph="/* TextWriter tw = new StreamWriter(@System.Environment.GetEnvironmentVariable(&quot;OUTPUT_PATH&quot;), true); ... */" />
+            <marker date="1548802299838" expanded="true" signature="2694:2812" ph="/* Console.WriteLine(total); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/birthdaycankecandles/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="35" column="54" selection-start-line="35" selection-start-column="54" selection-end-line="35" selection-end-column="54" />
+          <folding>
+            <marker date="1548257909472" expanded="false" signature="6:119" ph="..." />
+            <marker date="1548257909472" expanded="true" signature="151:1200" ph="{...}" />
+            <marker date="1548257909472" expanded="true" signature="173:1198" ph="{...}" />
+            <marker date="1548257909472" expanded="true" signature="284:591" ph="{...}" />
+            <marker date="1548257909472" expanded="true" signature="410:547" ph="{...}" />
+            <marker date="1548257909472" expanded="true" signature="458:530" ph="{...}" />
+            <marker date="1548257909472" expanded="true" signature="633:1192" ph="{...}" />
+            <marker date="1548257909472" expanded="true" signature="635:954" ph="/* TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable(&quot;OUTPUT_PATH&quot;), true); ... */" />
+            <marker date="1548257909472" expanded="true" signature="1068:1182" ph="/* textWriter.WriteLine(result); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/birthdayChocolate/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="24" column="25" selection-start-line="12" selection-start-column="12" selection-end-line="24" selection-end-column="25" />
+          <folding>
+            <marker date="1549398197294" expanded="false" signature="6:83" ph="..." />
+            <marker date="1549398197294" expanded="true" signature="112:1226" ph="{...}" />
+            <marker date="1549398197294" expanded="true" signature="133:1223" ph="{...}" />
+            <marker date="1549398197294" expanded="true" signature="194:518" ph="{...}" />
+            <marker date="1549398197294" expanded="true" signature="284:481" ph="{...}" />
+            <marker date="1549398197294" expanded="true" signature="402:467" ph="{...}" />
+            <marker date="1549398197294" expanded="true" signature="559:1217" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sockMerchant/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="30" column="58" selection-start-line="30" selection-start-column="58" selection-end-line="30" selection-end-column="58" />
+          <folding>
+            <marker date="1550092163341" expanded="true" signature="6:47" ph="..." />
+            <marker date="1550092163341" expanded="true" signature="71:993" ph="{...}" />
+            <marker date="1550092163341" expanded="true" signature="93:990" ph="{...}" />
+            <marker date="1550092163341" expanded="true" signature="197:504" ph="{...}" />
+            <marker date="1550092163341" expanded="true" signature="308:468" ph="{...}" />
+            <marker date="1550092163341" expanded="true" signature="362:452" ph="{...}" />
+            <marker date="1550092163341" expanded="true" signature="546:984" ph="{...}" />
+            <marker date="1550092163341" expanded="true" signature="860:974" ph="/* textWriter.WriteLine(result); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drawBook/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+          <folding>
+            <marker date="1550675011153" expanded="true" signature="6:47" ph="..." />
+            <marker date="1550675011153" expanded="true" signature="67:1613" ph="{...}" />
+            <marker date="1550675011153" expanded="true" signature="89:1610" ph="{...}" />
+            <marker date="1550675011153" expanded="true" signature="139:1184" ph="{...}" />
+            <marker date="1550675011153" expanded="true" signature="354:655" ph="{...}" />
+            <marker date="1550675011153" expanded="true" signature="400:477" ph="{...}" />
+            <marker date="1550675011153" expanded="true" signature="498:641" ph="{...}" />
+            <marker date="1550675011153" expanded="true" signature="672:1141" ph="{...}" />
+            <marker date="1550675011153" expanded="true" signature="734:817" ph="{...}" />
+            <marker date="1550675011153" expanded="true" signature="838:1127" ph="{...}" />
+            <marker date="1550675011153" expanded="true" signature="900:989" ph="{...}" />
+            <marker date="1550675011153" expanded="true" signature="1014:1109" ph="{...}" />
+            <marker date="1550675011153" expanded="true" signature="1226:1604" ph="{...}" />
+            <marker date="1550675011153" expanded="true" signature="1480:1594" ph="/* textWriter.WriteLine(result); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/countingValleys/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="39" column="36" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
+          <folding>
+            <marker date="1551031676972" expanded="true" signature="6:66" ph="..." />
+            <marker date="1551031676972" expanded="true" signature="93:1166" ph="{...}" />
+            <marker date="1551031676972" expanded="true" signature="115:1163" ph="{...}" />
+            <marker date="1551031676972" expanded="true" signature="225:714" ph="{...}" />
+            <marker date="1551031676972" expanded="true" signature="333:676" ph="{...}" />
+            <marker date="1551031676972" expanded="true" signature="380:446" ph="{...}" />
+            <marker date="1551031676972" expanded="true" signature="480:546" ph="{...}" />
+            <marker date="1551031676972" expanded="true" signature="595:662" ph="{...}" />
+            <marker date="1551031676972" expanded="true" signature="756:1157" ph="{...}" />
+            <marker date="1551031676972" expanded="true" signature="1033:1147" ph="/* textWriter.WriteLine(result); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eletronicShops/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="22" column="26" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="22" selection-end-column="26" />
+          <folding>
+            <marker date="1551127751854" expanded="true" signature="39:1442" ph="{...}" />
+            <marker date="1551127751854" expanded="true" signature="61:1440" ph="{...}" />
+            <marker date="1551127751854" expanded="true" signature="72:140" ph="/* Complete the getMoneySpent function below. ... */" />
+            <marker date="1551127751854" expanded="true" signature="211:661" ph="{...}" />
+            <marker date="1551127751854" expanded="true" signature="309:624" ph="{...}" />
+            <marker date="1551127751854" expanded="true" signature="379:610" ph="{...}" />
+            <marker date="1551127751854" expanded="true" signature="489:592" ph="{...}" />
+            <marker date="1551127751854" expanded="true" signature="703:1434" ph="{...}" />
+            <marker date="1551127751854" expanded="true" signature="717:886" ph="/* TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable(&quot;OUTPUT_PATH&quot;), true); ... */" />
+            <marker date="1551127751854" expanded="true" signature="1051:1194" ph="/* The maximum amount of money she can spend on a keyboard and USB drive, or -1 if she can't purchase both items ... */" />
+            <marker date="1551127751854" expanded="true" signature="1306:1424" ph="/* textWriter.WriteLine(moneySpent); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eletronicShop/UnitTest1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1551127053266" expanded="false" signature="6:26" ph="..." />
+            <marker date="1551127053266" expanded="true" signature="51:157" ph="{...}" />
+            <marker date="1551127053266" expanded="true" signature="80:155" ph="{...}" />
+            <marker date="1551127053266" expanded="true" signature="129:149" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catsAndMouse/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="56" column="5" selection-start-line="4" selection-start-column="4" selection-end-line="56" selection-end-column="5" />
+          <folding>
+            <marker date="1551518078330" expanded="true" signature="59:1379" ph="{...}" />
+            <marker date="1551518078330" expanded="true" signature="168:502" ph="{...}" />
+            <marker date="1551518078330" expanded="true" signature="232:294" ph="{...}" />
+            <marker date="1551518078330" expanded="true" signature="350:412" ph="{...}" />
+            <marker date="1551518078330" expanded="true" signature="429:491" ph="{...}" />
+            <marker date="1551518078330" expanded="true" signature="544:1373" ph="{...}" />
+            <marker date="1551518078330" expanded="true" signature="726:1201" ph="/* for (int qItr = 0; qItr &lt; q; qItr++) { ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compareTriplets/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <marker date="1548170664467" expanded="true" signature="132:1346" ph="{...}" />
+            <marker date="1548170664467" expanded="true" signature="258:735" ph="{...}" />
+            <marker date="1548170664467" expanded="true" signature="403:627" ph="{...}" />
+            <marker date="1548170664467" expanded="true" signature="450:513" ph="{...}" />
+            <marker date="1548170664467" expanded="true" signature="548:613" ph="{...}" />
+            <marker date="1548170664467" expanded="true" signature="777:1340" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magicSquare/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding>
+            <marker date="1551989681807" expanded="true" signature="58:753" ph="{...}" />
+            <marker date="1551989681807" expanded="true" signature="169:207" ph="{...}" />
+            <marker date="1551989681807" expanded="true" signature="249:747" ph="{...}" />
+            <marker date="1551989681807" expanded="true" signature="452:572" ph="{...}" />
+            <marker date="1551989681807" expanded="true" signature="623:737" ph="/* textWriter.WriteLine(result); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catsAndMouses/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <marker date="1551518171480" expanded="true" signature="60:1384" ph="{...}" />
+            <marker date="1551518171480" expanded="true" signature="169:505" ph="{...}" />
+            <marker date="1551518171480" expanded="true" signature="233:295" ph="{...}" />
+            <marker date="1551518171480" expanded="true" signature="351:413" ph="{...}" />
+            <marker date="1551518171480" expanded="true" signature="430:494" ph="{...}" />
+            <marker date="1551518171480" expanded="true" signature="547:1378" ph="{...}" />
+            <marker date="1551518171480" expanded="true" signature="561:1206" ph="/* TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable(&quot;OUTPUT_PATH&quot;), true); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pickingNumbers/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+          <folding>
+            <marker date="1554920897535" expanded="true" signature="6:83" ph="..." />
+            <marker date="1554920897535" expanded="true" signature="109:1074" ph="{...}" />
+            <marker date="1554920897535" expanded="true" signature="128:441" ph="{...}" />
+            <marker date="1554920897535" expanded="true" signature="144:346" ph="/* Complete the 'pickingNumbers' function below. ... */" />
+            <marker date="1554920897535" expanded="true" signature="401:434" ph="{...}" />
+            <marker date="1554920897535" expanded="true" signature="461:1072" ph="{...}" />
+            <marker date="1554920897535" expanded="true" signature="514:1066" ph="{...}" />
+            <marker date="1554920897535" expanded="true" signature="942:1056" ph="/* textWriter.WriteLine(result); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/appleandorange/bin/Debug/netcoreapp2.1/appleandorange.deps.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/appleandorange/bin/Debug/netcoreapp2.1/appleandorange.runtimeconfig.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/appleandorange/bin/Debug/netcoreapp2.1/appleandorange.runtimeconfig.dev.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/appleandorange/bin/Debug/netcoreapp2.1/appleandorange.dll
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/appleandorange/bin/Debug/netcoreapp2.1/appleandorange.pdb
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/appleandorange/obj/Debug/netcoreapp2.1/appleandorange.csprojAssemblyReference.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/appleandorange/obj/Debug/netcoreapp2.1/appleandorange.csproj.CoreCompileInputs.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/appleandorange/obj/Debug/netcoreapp2.1/appleandorange.AssemblyInfoInputs.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/appleandorange/obj/Debug/netcoreapp2.1/appleandorange.AssemblyInfo.cs
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/appleandorange/obj/Debug/netcoreapp2.1/appleandorange.dll
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/appleandorange/obj/Debug/netcoreapp2.1/appleandorange.pdb

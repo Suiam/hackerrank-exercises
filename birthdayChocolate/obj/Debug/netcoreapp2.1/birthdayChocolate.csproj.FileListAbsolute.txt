@@ -1,0 +1,11 @@
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/birthdayChocolate/bin/Debug/netcoreapp2.1/birthdayChocolate.deps.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/birthdayChocolate/bin/Debug/netcoreapp2.1/birthdayChocolate.runtimeconfig.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/birthdayChocolate/bin/Debug/netcoreapp2.1/birthdayChocolate.runtimeconfig.dev.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/birthdayChocolate/bin/Debug/netcoreapp2.1/birthdayChocolate.dll
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/birthdayChocolate/bin/Debug/netcoreapp2.1/birthdayChocolate.pdb
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/birthdayChocolate/obj/Debug/netcoreapp2.1/birthdayChocolate.csprojAssemblyReference.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/birthdayChocolate/obj/Debug/netcoreapp2.1/birthdayChocolate.csproj.CoreCompileInputs.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/birthdayChocolate/obj/Debug/netcoreapp2.1/birthdayChocolate.AssemblyInfoInputs.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/birthdayChocolate/obj/Debug/netcoreapp2.1/birthdayChocolate.AssemblyInfo.cs
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/birthdayChocolate/obj/Debug/netcoreapp2.1/birthdayChocolate.dll
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/birthdayChocolate/obj/Debug/netcoreapp2.1/birthdayChocolate.pdb

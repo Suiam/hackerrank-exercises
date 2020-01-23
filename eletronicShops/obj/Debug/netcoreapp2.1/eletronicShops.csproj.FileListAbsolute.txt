@@ -1,0 +1,11 @@
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/eletronicShops/bin/Debug/netcoreapp2.1/eletronicShops.deps.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/eletronicShops/bin/Debug/netcoreapp2.1/eletronicShops.runtimeconfig.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/eletronicShops/bin/Debug/netcoreapp2.1/eletronicShops.runtimeconfig.dev.json
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/eletronicShops/bin/Debug/netcoreapp2.1/eletronicShops.dll
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/eletronicShops/bin/Debug/netcoreapp2.1/eletronicShops.pdb
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/eletronicShops/obj/Debug/netcoreapp2.1/eletronicShops.csprojAssemblyReference.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/eletronicShops/obj/Debug/netcoreapp2.1/eletronicShops.csproj.CoreCompileInputs.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/eletronicShops/obj/Debug/netcoreapp2.1/eletronicShops.AssemblyInfoInputs.cache
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/eletronicShops/obj/Debug/netcoreapp2.1/eletronicShops.AssemblyInfo.cs
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/eletronicShops/obj/Debug/netcoreapp2.1/eletronicShops.dll
+/Users/suiamcosta/desenvolvimento/hackerrank/problem_sum_simple_array/eletronicShops/obj/Debug/netcoreapp2.1/eletronicShops.pdb
